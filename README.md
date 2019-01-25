@@ -1,2 +1,2 @@
 # PES2019Networks
-Materials for networks in PES2019 paper
+Supplementary Material for "A Game-Theoretic Approach to Analyzing Equilibria in Coupled Power and Transportation Network" in IEEE PES General Meeting 2019.
